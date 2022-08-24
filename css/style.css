@@ -7,7 +7,7 @@
 .container{
   height: 250vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(img/background.png);
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/background.png);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -114,16 +114,16 @@ button{
 }
 
 .card1{
-  background-image: url(img/first-selfie.jpg);
+  background-image: url(../img/first-selfie.jpg);
 }
 .card2{
-  background-image: url(img/first-scener.jpg);
+  background-image: url(../img/first-scener.jpg);
 }
 .card3{
-  background-image: url(img/f-iftar.jpg);
+  background-image: url(../img/f-iftar.jpg);
 }
 .card4{
-  background-image: url(img/first-birthday.jpg);
+  background-image: url(../img/first-birthday.jpg);
 }
 
 .card:hover{
